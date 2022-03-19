@@ -10,7 +10,9 @@
 
 # About Me
 
-...
+I am 24 years old, I work as a Junior ETL Data Warehouse Developer. I think that my actual job will lead me to stagnation some day or other. As a person who loves beauty, I would like to interact with it somehow. In front-end development, you can visually evaluate your work. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
+
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 
 # Skills
 
