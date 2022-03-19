@@ -45,7 +45,7 @@ function multiply(a, b){
     - Faculty of Computer and Informatics Engineering
 - ### **Courses:**
   - HTML and CSS Basics on the [Coursera](https://www.coursera.org) (_completed_)
-    ![HTML and CSS](/rsschool-cv/img/Coursera.png)
+    ![HTML and CSS](/img/Coursera.png)
   - RS Schools Course «JavaScript/Front-end. Stage 1» (_in progress_)
 
 # Languages
