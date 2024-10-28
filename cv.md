@@ -42,6 +42,7 @@ function multiply(a, b){
 # Work Experience
 
 ### [**GlowByte Consulting**](https://glowbyteconsulting.com/en) - Middle ETL Data Warehouse Developer (since 2021)
+
 - **ETL Process Management:**
   - Developed, tested, and implemented scheduled ETL processes.
   - Optimized ETL processes for efficiency.
@@ -59,7 +60,7 @@ function multiply(a, b){
 - **Collaboration and Communication:**
   - Communicated with clients, support teams, and other developers.
   - Participated in task decomposition and coordinated development work.
-  
+
 **Technology Stack**: Oracle SQL, SAS Data Integration Studio (SAS DIS), SAS Macro, SAS Enterprise Guide (SAS EG), SAS Management Console (SAS MC).
 
 # Education
@@ -71,6 +72,7 @@ function multiply(a, b){
     - Faculty of Computer and Informatics Engineering
 - ### **Courses:**
   - HTML and CSS Basics on the [Coursera](https://www.coursera.org) (_completed_)
+    ![HTML and CSS](/img/Coursera.png)
   - RS Schools Course «[JavaScript / Front-end Course](https://rs.school/courses/javascript-ru)» (_in progress_)
   - [PROGRAMMING SCHOOL 21](https://21-school.ru/)
 
